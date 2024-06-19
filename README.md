@@ -16,7 +16,7 @@ My family owns a nail spa in Maracaibo, Venezuela. They used to make all appoint
 
 - Timed refresh is not a good idea (AWS got really expensive)
 - Using a web portal to let customers confirm their own appointments by SMS proved to work very well
-- Had to find a way to make the dashboard only updated when needed
+- Had to find a way to make the dashboard only update when needed
 
 ## Tech Stack Version 2.0
 
